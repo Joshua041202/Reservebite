@@ -92,16 +92,16 @@ body{
     font-weight: 600;
 
 }
-.wrapper .register-link {
+.wrapper .Sign up-link {
     font-size: 14,5px;
     text-align: center;
     margin-top: 20px;
 }
-.register-link p a{
+.Sign up-link p a{
     color: #fff;
     text-decoration: none;
     font-weight: 600;
 }
-.register-link p a :hover{
+.Sign up-link p a :hover{
     text-decoration: und;
 }
